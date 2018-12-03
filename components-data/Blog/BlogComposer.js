@@ -3,12 +3,7 @@ export default {
     "id": "blog-composer",
     "parent": "blog",
     "summary": "This tag is used for creating new blog post",
-    "specs": [{
-        "type": "textwithcheckbox",
-        "key": "title",
-        "tooltip": "You may show a title above the composer box",
-        "label": "Title"
-    }],
+    "specs": [],
     "otherAttributes" : {
         "titlePlaceholder":"Enter your post title here...",
       "saveLinkText" : "Save",
