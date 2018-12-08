@@ -9,5 +9,10 @@ export default {
         "label": "Identification",
         "placeholder": "Group identification number is required",
         "value": "33365d758357b6e724c360272ebf8895"
+    },{
+        "type": "textwithcheckbox",
+        "key": "default-avatar",
+        "label": "Default Avatar",
+        "tooltip": "Provide the Default Image URL for Avatar"
     }]
 }

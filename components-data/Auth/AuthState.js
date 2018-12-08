@@ -28,6 +28,11 @@ export default {
             "label": "Color",
             "value": "color"
         }]
+    },{
+        "type": "textwithcheckbox",
+        "key": "default-avatar",
+        "label": "Default Avatar",
+        "tooltip": "Provide the Default Image URL for Avatar"
     }],
     "otherAttributes" : {
         "loginButtonText" : "Login",

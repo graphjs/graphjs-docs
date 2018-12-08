@@ -20,6 +20,11 @@ export default {
         "type": "textwithcheckbox",
         "key": "max-height",
         "label": "Maximum Height"
+    },{
+        "type": "textwithcheckbox",
+        "key": "default-avatar",
+        "label": "Default Avatar",
+        "tooltip": "Provide the Default Image URL for Avatar"
     }],
     "otherAttributes": {
         "nameSearchPlaceholder" : "Type a name...",
