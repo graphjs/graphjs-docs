@@ -5,31 +5,6 @@ export default {
     "summary": "The graphjs-auth family of tags enable adding login/signup functionality to any web site in just a single tag. The difference of this tag from **graphjs-auth-state** is that the components in this tag appear inline, vs. the components in the **graphjs-auth-state** appear in a lightbox. If you need more customizability, please refer to [showLogin](/docs/functions/showLogin), [showRegister](/docs/functions/showRegister).",
     "specs": [{
         "type": "radio",
-        "key": "type",
-        "label": "Type",
-        "tooltip": "Choose 'standalone' for a distinct look, and 'inline' for a blended look.",
-        "value": "standalone",
-        "options": [{
-            "label": "Standalone",
-            "value": "standalone"
-        }, {
-            "label": "Inline",
-            "value": "inline"
-        }]
-    }, {
-        "type": "radio",
-        "key": "theme",
-        "label": "Theme",
-        "value": "default",
-        "options": [{
-            "label": "Default",
-            "value": "default"
-        }, {
-            "label": "Color",
-            "value": "color"
-        }]
-    }, {
-        "type": "radio",
         "key": "position",
         "label": "Position",
         "tooltip": "Where should the pop-over position relative to the button itself",
