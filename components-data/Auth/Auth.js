@@ -22,5 +22,18 @@ export default {
             "label": "Bottom Right",
             "value": "bottomright"
         }]
+    },{
+        "type": "radio",
+        "key": "box",
+        "label": "Box",
+        "tooltip": "Box attribute is added by default",
+        "value": "disabled",
+        "options": [{
+            "label": "Disabled",
+            "value": "disabled"
+        },{
+            "label": "Enabled",
+            "value": "enabled"
+        }]
     }]
 }
