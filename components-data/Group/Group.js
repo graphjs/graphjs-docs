@@ -9,5 +9,22 @@ export default {
         "label": "Identification",
         "placeholder": "Group identification number is required",
         "value": "33365d758357b6e724c360272ebf8895"
+    },{
+        "type": "textwithcheckbox",
+        "key": "min-width",
+        "label": "Minimum Width"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "max-width",
+        "label": "Maximum Width",
+        "value": "800px"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "min-height",
+        "label": "Minimum Height"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "max-height",
+        "label": "Maximum Height"
     }]
 }
