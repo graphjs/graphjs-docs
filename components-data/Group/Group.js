@@ -14,5 +14,22 @@ export default {
         "key": "default-avatar",
         "label": "Default Avatar",
         "tooltip": "Provide the Default Image URL for Avatar"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "min-width",
+        "label": "Minimum Width"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "max-width",
+        "label": "Maximum Width",
+        "value": "800px"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "min-height",
+        "label": "Minimum Height"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "max-height",
+        "label": "Maximum Height"
     }]
 }
