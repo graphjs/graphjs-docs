@@ -47,5 +47,10 @@ export default {
             "label": "Bottom Right",
             "value": "bottomright"
         }]
+    },{
+        "type": "textwithcheckbox",
+        "key": "default-avatar",
+        "label": "Default Avatar",
+        "tooltip": "Provide the default image URL for avatar"
     }]
 }

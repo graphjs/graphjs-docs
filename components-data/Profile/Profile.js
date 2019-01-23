@@ -11,6 +11,11 @@ export default {
         "value": "48760696099368953dd71a90b727acba"
     },{
         "type": "textwithcheckbox",
+        "key": "default-avatar",
+        "label": "Default Avatar",
+        "tooltip": "Provide the default image URL for avatar"
+    }, {
+        "type": "textwithcheckbox",
         "key": "min-width",
         "label": "Minimum Width"
     }, {

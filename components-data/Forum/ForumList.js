@@ -38,6 +38,11 @@ export default {
         "type": "textwithcheckbox",
         "key": "max-height",
         "label": "Maximum Height"
+    },{
+        "type": "textwithcheckbox",
+        "key": "default-avatar",
+        "label": "Default Avatar",
+        "tooltip": "Provide the default image URL for avatar"
     }],
     "otherAttributes" : {
         "title" : "Community Forum",
