@@ -41,4 +41,5 @@ export default {
         "label": "Default Avatar",
         "tooltip": "Provide the default image URL for avatar"
     }]
+        ]
 }
