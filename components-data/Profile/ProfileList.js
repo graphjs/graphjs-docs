@@ -15,8 +15,5 @@ export default {
             "label": "Private",
             "value": "private"
         }]
-    }],
-    "otherAttributes" : {
-        "loginButtonText":"Login to display content"
-    }
+    }]
 }
