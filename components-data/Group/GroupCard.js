@@ -9,10 +9,5 @@ export default {
         "label": "Identification",
         "placeholder": "Group identification number is required",
         "value": "33365d758357b6e724c360272ebf8895"
-    }],
-    "otherAttributes" : {
-        "membersCountText" : "%s Member(s)",
-        "leaveGroupText" : "Leave Group",
-        "joinGroupText" : "Join Group"
-    }
+    }]
 }

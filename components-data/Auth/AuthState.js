@@ -21,9 +21,5 @@ export default {
         "key": "default-avatar",
         "label": "Default Avatar",
         "tooltip": "Provide the default image URL for avatar"
-    }],
-    "otherAttributes" : {
-        "loginButtonText" : "Login",
-        "registerButtonText" : "Register",
-    }
+    }]
 }
