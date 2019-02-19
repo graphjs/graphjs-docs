@@ -1,7 +1,7 @@
 export default {
     "label": "showBlogPost",
     "id": "showBlogPost",
-    "parent": "show",
+    "parent": "blogDisplayFunctions",  
     "summary": "A javascript call to display a Blog Post",
     "specs": [{
         "type": "text",

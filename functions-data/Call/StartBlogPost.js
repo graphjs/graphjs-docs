@@ -1,7 +1,7 @@
 export default {
     "label": "startBlogPost",
     "id": "startBlogPost",
-    "parent": "call",
+    "parent": "blogApiFunctions",
     "summary": "A javascript call to start a blog post programmatically. See below for a sample response. See also [getBlogPost](/docs/functions/getBlogPost), [getBlogPosts](/docs/functions/getBlogPosts), [editBlogPost](/docs/functions/editBlogPost), [removeBlogPost](/docs/functions/removeBlogPost). Part of the Blog family of tags/calls.",
     "specs": [{
         "type": "text",

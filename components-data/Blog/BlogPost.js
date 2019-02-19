@@ -1,7 +1,7 @@
 export default {
     "label": "Blog: Post",
     "id": "blog-post",
-    "parent": "blog",
+    "parent": "blogTags",
     "summary": "Shows any particular blog post with id",
     "specs": [{
         "type": "text",

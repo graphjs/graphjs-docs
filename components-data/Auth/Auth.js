@@ -1,7 +1,7 @@
 export default {
     "label": "Auth",
     "id": "auth",
-    "parent": "auth",
+    "parent": "authTags",
     "summary": "The graphjs-auth family of tags enable adding login/signup functionality to any web site in just a single tag. The difference of this tag from **graphjs-auth-state** is that the components in this tag appear inline, vs. the components in the **graphjs-auth-state** appear in a lightbox. If you need more customizability, please refer to [showLogin](/docs/functions/showLogin), [showRegister](/docs/functions/showRegister).",
     "specs": [{
         "type": "radio",
