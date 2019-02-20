@@ -1,7 +1,7 @@
 export default {
     "label": "showProfile",
     "id": "showProfile",
-    "parent": "show",
+    "parent": "profileDisplayFunctions",
     "summary": "A javascript call to display a single profile modal. Part of the Profile family of tags/calls.",
     "specs": [{
         "type": "text",

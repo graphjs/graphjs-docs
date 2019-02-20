@@ -2,7 +2,7 @@ export default {
     // @TODO: SHOULD NOT REQUIRE LOG-IN
     "label": "showMessagesComposer",
     "id": "showMessagesComposer",
-    "parent": "show",
+    "parent": "messagesDisplayFunctions",
     "summary": "A javascript call to display a message composer modal. Requires log-in. Part of the Messages family of tags/calls.",
     "specs": [{
         "type": "text",

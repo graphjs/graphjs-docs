@@ -1,7 +1,7 @@
 export default {
     "label": "Forum",
     "id": "forum",
-    "parent": "forum",
+    "parent": "forumTags",
     "summary": "The graphjs-forum family of tags are important in adding a sense of community to your web site by enabling many-to-many communications. The difference of this tag from **graphjs-forum-list** is that the components in this tag (e.g. threads, replies etc.) appear inline, vs. the components in the **graphjs-forum-list** appear in a lightbox. If you need more customizability, please refer to [showForum](/docs/functions/showForum), [getThreads](/docs/functions/getThreads), and [startThread](/docs/functions/startThread).",
     "specs": [{
         "type": "text",

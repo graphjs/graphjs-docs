@@ -1,7 +1,7 @@
 export default {
     "label": "getUserStars",
     "id": "getUserStars",
-    "parent": "call",
+    "parent": "contentApiFunctions",
     "summary": "An active-session-dependent javascript call to fetch all starred contents of the current user. Part of the Content family of tags/calls.",
     "specs": []
 }

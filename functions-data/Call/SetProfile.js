@@ -1,7 +1,7 @@
 export default {
     "label": "setProfile",
     "id": "setProfile",
-    "parent": "call",
+    "parent": "profileApiFunctions",
     "summary": "An active-session-dependent javascript call to set the profile field(s) of current user programmatically. Part of the Profile family of tags/calls.",
     "specs": [{
         "type": "text",

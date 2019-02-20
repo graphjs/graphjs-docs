@@ -1,7 +1,7 @@
 export default {
     "label": "getConversation",
     "id": "getConversation",
-    "parent": "call",
+    "parent": "messagesApiFunctions",
     "summary": "An active-session-dependent javascript call to fetch the conversation (messages) with a particular member programmatically. Part of the Messages family of tags/calls.",
     "specs": [{
         "type": "text",

@@ -1,7 +1,7 @@
 export default {
     "label": "Star: Button",
     "id": "star-button",
-    "parent": "content",
+    "parent": "contentTags",
     "summary": "Positive reactions are an important part of enabling social interactions on your web site. The star-family of tags enable liking/upvoting of any URL. This tag is the star button. For more customizability, c/o [star](/docs/functions/star), and [removeStar](/docs/functions/removeStar).",
     "specs": [{
         "type": "radio",

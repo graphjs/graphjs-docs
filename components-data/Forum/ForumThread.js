@@ -1,7 +1,7 @@
 export default {
     "label": "Forum: Thread",
     "id": "forum-thread",
-    "parent": "forum",
+    "parent": "forumTags",
     "summary": "The graphjs-forum family of tags are important in adding a sense of community to your web site by enabling many-to-many communications. The **graphjs-forum-thread** tag allows you to embed a single forum thread on any webpage you'd like. Users may reply the thread inline. If you need more customizability, please refer to [showForumThread](/docs/functions/showForumThread), [getThread](/docs/functions/getThread), and [replyThread](/docs/functions/replyThread).",
     "specs": [{
         "type": "text",

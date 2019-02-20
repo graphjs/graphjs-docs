@@ -1,7 +1,7 @@
 export default {
     "label": "getThread",
     "id": "getThread",
-    "parent": "call",
+    "parent": "forumApiFunctions",
     "summary": "A javascript call to fetch a forum thread (with all its replies) programmatically. See below for a sample response. See also [getThreads](/docs/functions/getThreads), [startThread](/docs/functions/startThread), [replyThread](/docs/functions/replyThread), [removeReply](/docs/functions/removeReply). Part of the Forum family of tags/calls.",
     "specs": [{
         "type": "text",

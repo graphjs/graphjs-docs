@@ -1,7 +1,7 @@
 export default {
     "label": "sendAnonymousMessage",
     "id": "sendAnonymousMessage",
-    "parent": "call",
+    "parent": "messagesApiFunctions",
     "summary": "A javascript call to send a private message programmatically. The difference of this function from sendMessage is that this lets non-members to message a member. Use cautiously. Part of the Messages family of tags/calls.",
     "specs": [{
         "type": "text",

@@ -1,7 +1,7 @@
 export default {
     "label": "showForumThread",
     "id": "showForumThread",
-    "parent": "show",
+    "parent": "forumDisplayFunctions",
     "summary": "A javascript call to display a single forum thread modal. Part of the Forum family of tags/calls.",
     "specs": [{
         "type": "text",
