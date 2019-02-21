@@ -1,7 +1,7 @@
 export default {
     "label": "Comments",
     "id": "comments",
-    "parent": "content",
+    "parent": "contentTags",
     "summary": "This enables commenting on given URL. For more customizability, c/o [getComments](/docs/functions/getComments), [addComment](/docs/functions/addComment), and [removeComment](/docs/functions/removeComment).",
     "specs": [{
         "type": "textwithcheckbox",

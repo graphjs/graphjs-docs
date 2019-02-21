@@ -1,7 +1,7 @@
 export default {
     "label": "getBlogComments",
     "id": "getBlogComments",
-    "parent": "call",
+    "parent": "blogApiFunctions",
     "summary": "A javascript call to fech blog post comments programmatically. See also [commentBlogPost](/docs/functions/commentBlogPost), [editBlogComment](/docs/functions/editBlogComment), [removeBlogComment](/docs/functions/removeBlogComment). Part of the Blog Comments family of tags/calls.",
     "specs": [{
         "type": "text",

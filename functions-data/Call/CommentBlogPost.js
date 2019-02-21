@@ -1,7 +1,7 @@
 export default {
     "label": "commentBlogPost",
     "id": "commentBlogPost",
-    "parent": "call",
+    "parent": "blogApiFunctions",
     "summary": "A javascript call to add a comment on the blog post programmatically. See also [getBlogComments](/docs/functions/getBlogComments), [editBlogComment](/docs/functions/editBlogComment), [removeBlogComment](/docs/functions/removeBlogComment). Part of the Blog Comments family of tags/calls.",
     "specs": [{
         "type": "text",

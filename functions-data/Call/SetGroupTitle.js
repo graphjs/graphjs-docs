@@ -1,7 +1,7 @@
 export default {
     "label": "setGroupTitle",
     "id": "setGroupTitle",
-    "parent": "call",
+    "parent": "groupApiFunctions",
     "summary": "An active-session-dependent javascript call to set the title of a particular group programmatically.  See also [createGroup](/docs/functions/createGroup), [listGroups](/docs/functions/listGroups), [joinGroup](/docs/functions/joinGroup), [getGroup](/docs/functions/getGroup), [listMembers](/docs/functions/listMembers), [setGroupCover](/docs/functions/setGroupCover), [setGroupDescription](/docs/functions/setGroupDescription), [leaveGroup](/docs/functions/leaveGroup). Part of the Group family of tags/calls.",
     "specs": [{
         "type": "text",

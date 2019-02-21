@@ -1,7 +1,7 @@
 export default {
     "label": "showGroup",
     "id": "showGroup",
-    "parent": "show",
+    "parent": "groupDisplayFunctions",
     "summary": "A javascript call to display a group modal. Part of the Group family of tags/calls.",
     "specs": [{
         "type": "text",

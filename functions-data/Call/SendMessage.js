@@ -1,7 +1,7 @@
 export default {
     "label": "sendMessage",
     "id": "sendMessage",
-    "parent": "call",
+    "parent": "messagesApiFunctions",
     "summary": "An active-session-dependent javascript call to send a private message programmatically. Part of the Messages family of tags/calls.",
     "specs": [{
         "type": "text",

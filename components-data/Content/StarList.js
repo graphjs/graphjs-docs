@@ -1,7 +1,7 @@
 export default {
     "label": "Star: List",
     "id": "star-list",
-    "parent": "content",
+    "parent": "contentTags",
     "summary": "Positive reactions are an important part of enabling social interactions on your web site. The star-family of tags enable liking/upvoting of any URL. This tag is lists all starred contents. For more customizability, c/o [getStar](/docs/functions/getStar), [getStars](/docs/functions/getStars), and [getUserStars](/docs/functions/getUserStars).",
     "specs": [{
         "type": "textwithcheckbox",

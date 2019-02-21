@@ -1,7 +1,7 @@
 export default {
     "label": "Profile: List",
     "id": "profile-list",
-    "parent": "profile",
+    "parent": "profileTags",
     "summary": "Lists all available profile cards. For more customizability, c/o [listMembers](/docs/functions/listMembers).",
     "specs": [{
         "type": "radio",

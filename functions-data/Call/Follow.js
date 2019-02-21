@@ -1,7 +1,7 @@
 export default {
     "label": "follow",
     "id": "follow",
-    "parent": "call",
+    "parent": "profileApiFunctions",
     "summary": "An active-session-dependent javascript call to follow a member programmatically.  See also [getFollowers](/docs/functions/getFollowers), [getFollowing](/docs/functions/getFollowing), [unfollow](/docs/functions/unfollow). Part of the Profile family of tags/calls.",
     "specs": [{
         "type": "text",

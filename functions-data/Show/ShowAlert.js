@@ -1,7 +1,7 @@
 export default {
     "label": "showAlert",
     "id": "showAlert",
-    "parent": "show",
+    "parent": "authDisplayFunctions",
     "summary": "A javascript call to display a blocking modal with the aim to force the viewer to either log in or sign up. This may be used in parts of the web site where the content would be hidden from non-members. Part of the Authentication family of tags/calls.",
     "specs": [{
         "type": "textwithcheckbox",

@@ -1,7 +1,7 @@
 export default {
     "label" : "showBlogList",
     "id" : "showBlogList",
-    "parent" : "show",
+    "parent" : "blogDisplayFunctions",  
     "summary" : "A javascript call to display a Blog List",
     "specs" : []
 }
