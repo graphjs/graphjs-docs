@@ -8,7 +8,7 @@ export default {
         "key": "url",
         "label": "URL",
         "placeholder": "URL is required",
-        "value": "[](/docs"
+        "value": "https://my-website.com/my-webpage-with-graphjs-comments.html"
     }, {
         "type": "text",
         "key": "content",
