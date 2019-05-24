@@ -2,7 +2,7 @@ export default {
     "label": "listMembers",
     "id": "listMembers",
     "parent": "groupApiFunctions",
-    "summary": "A javascript call to list the members of a particular group programmatically.  See also [createGroup](/docs/functions/createGroup), [listGroups](/docs/functions/listGroups), [joinGroup](/docs/functions/joinGroup), [getGroup](/docs/functions/getGroup), [leaveGroup](/docs/functions/leaveGroup), [setGroupDescription](/docs/functions/setGroupDescription), [setGroupTitle](/docs/functions/setGroupTitle), [setGroupCover](/docs/functions/setGroupCover). Part of the Group family of tags/calls.",
+    "summary": "A javascript call to list the members of a particular group programmatically.  See also [createGroup](/docs/functions/createGroup), [listGroups](/docs/functions/listGroups), [joinGroup](/docs/functions/joinGroup), [getGroup](/docs/functions/getGroup), [leaveGroup](/docs/functions/leaveGroup), [setGroupDescription](/docs/functions/setGroupDescription), [setGroupTitle](/docs/functions/setGroupTitle), [setGroupCover](/docs/functions/setGroupCover), [deleteGroup](/docs/functions/deleteGroup). Part of the Group family of tags/calls.",
     "specs": [{
         "type": "text",
         "key": "id",
