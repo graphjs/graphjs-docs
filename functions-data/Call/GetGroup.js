@@ -2,7 +2,7 @@ export default {
     "label": "getGroup",
     "id": "getGroup",
     "parent": "groupApiFunctions",
-    "summary": "A javascript call to get the details of a particular group programmatically.  See also [createGroup](/docs/functions/createGroup), [listGroups](/docs/functions/listGroups), [joinGroup](/docs/functions/joinGroup), [listMembers](/docs/functions/listMembers), [leaveGroup](/docs/functions/leaveGroup), [setGroupDescription](/docs/functions/setGroupDescription), [setGroupTitle](/docs/functions/setGroupTitle), [setGroupCover](/docs/functions/setGroupCover). Part of the Group family of tags/calls.",
+    "summary": "A javascript call to get the details of a particular group programmatically.  See also [createGroup](/docs/functions/createGroup), [listGroups](/docs/functions/listGroups), [joinGroup](/docs/functions/joinGroup), [listMembers](/docs/functions/listMembers), [leaveGroup](/docs/functions/leaveGroup), [setGroupDescription](/docs/functions/setGroupDescription), [setGroupTitle](/docs/functions/setGroupTitle), [setGroupCover](/docs/functions/setGroupCover), [deleteGroup](/docs/functions/deleteGroup). Part of the Group family of tags/calls.",
     "specs": [{
         "type": "text",
         "key": "id",

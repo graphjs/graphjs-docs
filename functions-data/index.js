@@ -33,6 +33,7 @@ export { default as ListGroups } from './Call/ListGroups';
 export { default as ListMemberships } from './Call/ListMemberships';
 export { default as JoinGroup } from './Call/JoinGroup';
 export { default as GetGroup } from './Call/GetGroup';
+export { default as DeleteGroup } from './Call/DeleteGroup';
 export { default as ListMembers } from './Call/ListMembers';
 export { default as LeaveGroup } from './Call/LeaveGroup';
 export { default as SetGroupCover } from './Call/SetGroupCover';
