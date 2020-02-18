@@ -10,7 +10,7 @@ export default {
         "label": "Title"
     },{
         "type": "radio",
-        "key": "autofocus",
+        "key": "auto-focus",
         "label": "AutoFocus",
         "value": "on",
         "tooltip": "If off, won't autofocus",

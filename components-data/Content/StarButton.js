@@ -21,5 +21,18 @@ export default {
             "label": "Save",
             "value": "save"
         }]
+    },{
+        "type": "radio",
+        "key": "hide-zero",
+        "label": "Hide Zero",
+        "value": "off",
+        "tooltip": "If on, hide the button while it's zero",
+        "options": [{
+            "label": "On",
+            "value": "on"
+        }, {
+            "label": "Off",
+            "value": "off"
+        }]
     }]
 }
