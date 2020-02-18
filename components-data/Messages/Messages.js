@@ -34,5 +34,19 @@ export default {
         "key": "filter-out",
         "label": "Text Blocks to filter",
         "tooltip": "In RegExp format. For example: (insult1)|(profanity2)"
+    },
+    {
+        "type": "radio",
+        "key": "box",
+        "label": "Box",
+        "value": "enabled",
+        "tooltip": "If disabled, won't display a box in the background",
+        "options": [{
+            "label": "Enabled",
+            "value": "enabled"
+        }, {
+            "label": "Disabled",
+            "value": "disabled"
+        }]
     }]
 }
