@@ -29,5 +29,10 @@ export default {
         "key": "default-avatar",
         "label": "Default Avatar",
         "tooltip": "Provide the default image URL for avatar"
+    },{
+        "type": "textwithcheckbox",
+        "key": "filter-out",
+        "label": "Text Blocks to filter",
+        "tooltip": "In RegExp format. For example: (insult1)|(profanity2)"
     }]
 }
