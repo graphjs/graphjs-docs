@@ -8,5 +8,18 @@ export default {
         "key": "title",
         "tooltip": "You may show a title above the registration box",
         "label": "Title"
+    },{
+        "type": "radio",
+        "key": "autofocus",
+        "label": "AutoFocus",
+        "value": "on",
+        "tooltip": "If off, won't autofocus",
+        "options": [{
+            "label": "On",
+            "value": "on"
+        }, {
+            "label": "Off",
+            "value": "off"
+        }]
     }]
 }

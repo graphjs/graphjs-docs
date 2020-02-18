@@ -7,5 +7,18 @@ export default {
         "type": "textwithcheckbox",
         "key": "title",
         "label": "Title"
+    },{
+        "type": "radio",
+        "key": "autofocus",
+        "label": "AutoFocus",
+        "value": "on",
+        "tooltip": "If off, won't autofocus",
+        "options": [{
+            "label": "On",
+            "value": "on"
+        }, {
+            "label": "Off",
+            "value": "off"
+        }]
     }]
 }
