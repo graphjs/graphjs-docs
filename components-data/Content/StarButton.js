@@ -37,7 +37,7 @@ export default {
     },
     {
         "type": "textwithcheckbox",
-        "key": "ref",
+        "key": "href",
         "label": "Reference",
         "tooltip": "URL. Current address if empty."
     }
