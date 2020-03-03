@@ -36,10 +36,10 @@ export default {
         }]
     },
     {
-        "type": "textwithcheckbox",
+        "type": "text",
         "key": "href",
-        "label": "Reference",
-        "tooltip": "URL. Current address if empty."
+        "label": "Hyperlink Reference",
+        "tooltip": "URL. Current address, if empty."
     }
     ]
 }
