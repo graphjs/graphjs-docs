@@ -34,5 +34,12 @@ export default {
             "label": "Off",
             "value": "off"
         }]
-    }]
+    },
+    {
+        "type": "textwithcheckbox",
+        "key": "ref",
+        "label": "Reference",
+        "tooltip": "URL. Current address if empty."
+    }
+    ]
 }
