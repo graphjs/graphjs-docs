@@ -29,5 +29,10 @@ export default {
         "key": "default-avatar",
         "label": "Default Avatar",
         "tooltip": "Provide the default image URL for avatar"
+    },{
+        "type": "textwithcheckbox",
+        "key": "url",
+        "label": "URL",
+        "tooltip": "Default: current page"
     }]
 }
