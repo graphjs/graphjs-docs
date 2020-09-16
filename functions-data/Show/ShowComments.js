@@ -7,5 +7,9 @@ export default {
         "type": "textwithcheckbox",
         "key": "title",
         "label": "Title"
+    }, {
+        "type": "textwithcheckbox",
+        "key": "url",
+        "label": "URL"
     }]
 }
